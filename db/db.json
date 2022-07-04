@@ -1,0 +1,72 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "title": "Coder dog",
+      "likes": 216,
+      "image": "./assets/coder-dog.png",
+      "comments": [
+        {
+          "id": 1,
+          "content": "What a cute dog!",
+          "imageId": 1
+        },
+        {
+          "imageId": 1,
+          "content": "Funny dog!!",
+          "id": 4
+        },
+        {
+          "imageId": 1,
+          "content": "Hes a good boy!!",
+          "id": 5
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Something else",
+      "likes": 100,
+      "image": "https://images.pexels.com/photos/11572569/pexels-photo-11572569.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "title": "My new image",
+      "likes": 0,
+      "image": "https://images.pexels.com/photos/12642987/pexels-photo-12642987.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "id": 3
+    },
+    {
+      "title": "A superhero",
+      "likes": 0,
+      "image": "https://images.pexels.com/photos/4061662/pexels-photo-4061662.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "content": "What a cute dog!",
+      "imageId": 1
+    },
+    {
+      "id": 2,
+      "content": "He has the paws for this!",
+      "imageId": 2
+    },
+    {
+      "id": 3,
+      "content": "Someone's in trouble!",
+      "imageId": 2
+    },
+    {
+      "imageId": 1,
+      "content": "Funny dog!!",
+      "id": 4
+    },
+    {
+      "imageId": 1,
+      "content": "Hes a good boy!!",
+      "id": 5
+    }
+  ]
+}
